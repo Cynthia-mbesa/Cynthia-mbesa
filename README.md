@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **cynthiambesa@gmail.com**
 
-- 📄 Know about my experiences [https://us.docworkspace.com/d/sIECwt_JI86TOnwY?st=0t](https://us.docworkspace.com/d/sIECwt_JI86TOnwY?st=0t)
+- 📄 Know about my experiences [file:///C:/Users/Cynthia/Desktop/Cynthia%20Mbesa%20Muli%20CV.pdf)
 
 - ⚡ Fun fact **I am passionate about data analysis, software development, and learning new things.**
 
