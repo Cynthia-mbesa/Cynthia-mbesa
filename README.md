@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **building my portfolio.**
 
-- 🌱 I’m currently learning frontend development.**
+- 🌱 I’m currently learning **frontend development.**
 
 - 👯 I’m looking to collaborate on **building and developing softwares.**
 
